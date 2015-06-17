@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        
+        
+        <title>Five</title>
+
+        <!-- Bootstrap Core CSS -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Custom CSS -->
+        <link href="css/five.css" rel="stylesheet">
+
+        <!-- Custom Fonts -->
+        <link href="font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    </head>
+
+    <body id="page-top" class="index">
+
+        <!-- Navigation -->
+        <nav class="navbar navbar-default navbar-fixed-top">
+            
+            <div class="container"> 
+            <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header page-scroll">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> 
+                        <span class="sr-only">Toggle navigation</span> 
+                        <span class="icon-bar"></span> 
+                        <span class="icon-bar"></span> 
+                        <span class="icon-bar"></span> 
+                    </button>
+                </div>
+    
+                <span class="navbar-header page-scroll">
+                    <a class="navbar-brand page-scroll" href="#page-top">FIVE</a>
+                </span> 
+    
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="hidden"> <a href="#page-top"></a> </li>
+        <li> <a class="page-scroll" href="#about">About Us</a> </li>
+        <li> <a class="page-scroll" href="#services">Services</a> </li>
+        <li> <a class="page-scroll" href="#team">Our Team</a> </li>
+        <li> <a class="page-scroll" href="#contact">Contact</a> </li>
+      </ul>
+    </div>
+    <!-- /.navbar-collapse --> 
+  </div>
+  <!-- /.container-fluid --> 
+</nav>
+
+<!-- Header -->
+<header>
+  <div class="container">
+    <div class="intro-text">
+      <div class="intro-heading">Welcome To Swaran Jain &amp; Associates</div>
+      <a href="#about" class="page-scroll btn btn-xl"><i class="fa fa-angle-double-down fa-4x"></i></a> </div>
+  </div>
+</header>
+
+<!-- About Section -->
+<section id="about"  class="bg-light-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">About Us</h2>
+        <div class="line"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6">
+          <h4 class="about-heading">About</h4>
+        <p class="text-muted"><strong>Swaran Jain & Associates</strong>, a Company Secretary firm was established in Aug, 2002 with an objective of providing Corporate and Business Advisory Services to Corporate Clients so as to enable them to comply with Corporate Laws and adopt practices of good Corporate Governance.<br>
+
+Our team is committed to meet the challenges of the corporate sector in the 21st Century. The firm represents a combination of specialized skills, which are geared to offer sound financial advice and personalized proactive services. Those associated with the firm have regular interaction with industry and other professionals which enables the firm to keep pace with contemporary developments and to meet the needs of its clients.<br>
+
+Our legal and advisory services play a vital role in implementing robust control mechanisms to facilitate compliance of the challenging and ever changing regulations of the country.<br>
+
+Our core management team has a strong academic background, teamwork abilities, expertise and progressive vision to cater to the needs of clients in best possible manner.<br>
+
+A congregation of young, well-qualified and experienced team of professionals, who have handled diverse projects and assignments and spread over two layers of echelons consisting of three Senior Associates having around 26 years of experience and three Whole-time Qualified Company Secretaries possessing 1-5 yrs of experience in the field.</p>
+      </div>
+      <div class="col-md-6">
+        <h4 class="about-heading">Main areas of operation</h4>
+        <ul>
+          <li>Financial services</li>
+          <li>Business Support Services</li>
+          <li>Legal Services</li>
+          <li>Secretarial Services</li>
+        </ul>
+          <p class="text-muted">A special emphasis has been laid by the Firm to provide services in the areas of Legal Drafting &amp; Documentation, Consulting &amp; Counseling on legal matters &amp; Compliances, handling mergers & demergers, carrying out Due Diligence and Legal Audits, and a host of other related services.</p>
+          
+          <h4 class="about-heading">Approach</h4>
+          <p class="text-muted">The firm firmly believes that Corporate Compliance is an event but excellence in Corporate Compliance is spirit. Corporate Excellence can be achieved in every field by giving Proper Directions, Dedication, Determination, Discipline and completion of all Deadlines. The Management Approach of Firm is Dedication, Commitment and Satisfaction of Clients.</p>
+          
+      </div>
+    </div>
+  </div>
+</section>
+    
+<!-- Services Section -->
+<section id="services" >
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Services</h2>
+        <div class="line"></div>
+      </div>
+    </div>
+    <div class="row text-center services">
+        
+        <div id="myCarousel" class="carousel slide"> 
+            <!-- Carousel indicators --> 
+            <div class="col-lg-12">
+            <ol class="carousel-indicators"> 
+                <li data-target="#myCarousel" data-slide-to="0" class="active"></li> 
+                <li data-target="#myCarousel" data-slide-to="1"></li> 
+                <li data-target="#myCarousel" data-slide-to="2"></li> 
+                <li data-target="#myCarousel" data-slide-to="3"></li>
+            </ol>
+                </div>
+
+        
+        <!-- Carousel items -->
+        <div class="carousel-inner"> 
+        <div class="item active">
+        <div class="panel-group" id="accordion" style="margin:0"> 
+        <div class="col-md-4"> 
+          <span class="fa-stack fa-4x">
+                                  <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                  <i class="fa fa-institution fa-stack-1x "></i>
+            </span> 
+ <div class="panel panel-default"> <div class="panel-heading"> <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Business set up</a> </h4> </div> <div id="collapseOne" class="panel-collapse collapse"> <div class="panel-body"> <p><ul>
+                                <li>Choice of business entity</li>
+                                <li>Drafting of constitution documents</li>
+                                <li>Assistance in various registrations under direct and indirect tax legislations, import-export regulations, etc.</li>
+                                <li>Investment in capital, foreign direct investment, step down investments</li>
+                            </ul></p></div> </div> </div></div>
+      <div class="col-md-4"> 
+          <span class="fa-stack fa-4x">
+                                  <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                  <i class="fa fa-briefcase fa-stack-1x "></i>
+            </span> 
+          <div class="panel panel-default"> <div class="panel-heading"> <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">Company/LLP Formation Services</a> </h4> </div> <div id="collapseTwo" class="panel-collapse collapse"> <div class="panel-body"> <p><ul>
+                                <li>Obtaining Director Identification Number (DIN) and Digital Signature (DSC) of the proposed Director/s.</li>
+                                <li>Applying for name availability and follow up with the Registrar of Companies (ROC).</li>
+                                <li>Drafting Memorandum and Articles of Association of the Company as per nature of the business and the coverage required.</li>
+                                <li>Preparing and filing the final documents for company registration with the ROC</li>
+                                <li>Follow up for registration of the company and getting it registered</li>
+                            </ul></p></div> </div></div></div>
+      <div class="col-md-4"> 
+          <span class="fa-stack fa-4x">
+                                  <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                  <i class="fa fa-tree fa-stack-1x "></i>
+            </span> 
+       <div class="panel panel-default"> <div class="panel-heading"> <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">Secretarial Services</a> </h4> </div> <div id="collapseThree" class="panel-collapse collapse"> <div class="panel-body"> <p><ul>
+                                <li><strong>Pre-Certification of various forms under the Companies Act, 2013 other than annual forms.</strong></li>
+                                <li><strong>Preparation of Annual Forms to be filed under the Companies Act, 2013 other than XBRL & Annual return.</strong></li>
+                                <li><strong>Drafting of notices, minutes etc. in respect of Board & General Meetings and assistance in finalizing the same.</strong></li>
+                                <li><strong>Assistance in keeping the Statutory Records & Registers under the Act up-to-date</strong></li>
+                                <li><strong>Secretarial Compliance Certificate and /or Report of Secretarial Audit</strong></li>
+                                <li>Change in the name of a company</li>
+                                <li>Alteration of objects to the MOA</li>
+                                <li><strong>Shifting of registered office from one State to another State</strong></li>
+                                <li>Conversion of the company into Public or Private</li>
+                                <li>Petitions with Company Law Board / Regional Director under various provisions of Companies Act, 2013</li>
+                                <li>Search and Registration of Charges</li>
+                                <li><strong>Conducting postal ballot for companies</strong></li>
+                                <li>Compounding of offences</li>
+                                <li><strong>Acting as a scrutinizer</strong></li>
+                                <li><strong>Reduction of Share Capital.</strong></li>
+                                <li>Conversion of company from Private to Public and Public to Private</li>
+                                <li>Financial restructuring assistance</li>
+                            </ul></p></div> </div></div></div>
+    
+                </div>
+        
+
+    </div>
+      
+      <div class="item">
+        <div class="panel-group" id="accordion" style="margin:0"> 
+        <div class="col-md-4"> 
+          <span class="fa-stack fa-4x">
+                                  <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                  <i class="fa fa-pencil fa-stack-1x "></i>
+            </span> 
+ <div class="panel panel-default"> <div class="panel-heading"> <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour">XBRL Conversion &amp; Filing</a> </h4> </div> <div id="collapseFour" class="panel-collapse collapse"> <div class="panel-body"> <p><ul>
+                                <li>Standlone Balancesheet xbrl conversion &amp; filing</li>
+                                <li>Consolidated Balancesheet xbrl conversion &amp; filing</li>
+                            </ul></p></div> </div> </div></div>
+      <div class="col-md-4"> 
+          <span class="fa-stack fa-4x">
+                                  <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                  <i class="fa fa-book fa-stack-1x "></i>
+            </span> 
+          <div class="panel panel-default"> <div class="panel-heading"> <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive">Legal Services</a> </h4> </div> <div id="collapseFive" class="panel-collapse collapse"> <div class="panel-body"> <p><ul>
+                                <li>Formation of LLP</li>
+                                <li>Conversion of Company to LLP; Conversion from LLP to Company</li>
+                                <li>Closure of LLP</li>
+                            </ul></p></div> </div></div></div>
+      <div class="col-md-4"> 
+          <span class="fa-stack fa-4x">
+                                  <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                  <i class="fa fa-graduation-cap fa-stack-1x "></i>
+            </span> 
+       <div class="panel panel-default"> <div class="panel-heading"> <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseSix">FEMA Provisions</a> </h4> </div> <div id="collapseSix" class="panel-collapse collapse"> <div class="panel-body"> <p><ul>
+                                <li>Establishing branch/company in countries abroad</li>
+                                <li>Inspection and certified true copies of companies in different countries</li>
+                                <li>Certification of FCGPR</li>
+                            </ul></p></div> </div></div></div>
+    
+                </div>
+
+    </div>
+      
+       <div class="item">
+        <div class="panel-group" id="accordion" style="margin:0"> 
+        <div class="col-md-4"> 
+          <span class="fa-stack fa-4x">
+                                  <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                  <i class="fa fa-database fa-stack-1x "></i>
+            </span> 
+ <div class="panel panel-default"> <div class="panel-heading"> <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">Due Diligence</a> </h4> </div> <div id="collapseSeven" class="panel-collapse collapse"> <div class="panel-body"> <p><ul>
+                                <li>Due Diligence Audit - Legal and Financial</li>
+                                <li>Handling documentation - pre and post funding</li>
+                                <li>Private Funding / VC Funding - Advisory and Assistance</li>
+                            </ul></p></div> </div> </div></div>
+      <div class="col-md-4"> 
+          <span class="fa-stack fa-4x">
+                                  <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                  <i class="fa fa-paper-plane fa-stack-1x "></i>
+            </span> 
+          <div class="panel panel-default"> <div class="panel-heading"> <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseEight">Legal Opinion</a> </h4> </div> <div id="collapseEight" class="panel-collapse collapse"> <div class="panel-body"> <p><ul>
+                                <li>Preparing Legal opinion on Company Law matters.</li>
+                                <li>Assistance in business / company takeover matters – Private Companies and Public Companies</li>
+                                <li><strong>Drafting / vetting of various Commercial Agreements, Partnership Agreements and Wills</strong></li>
+                                <li><strong>Drafting of JV Agreement, JV cum Shareholders agreement</strong></li>
+                            </ul></p></div> </div></div></div>
+      <div class="col-md-4"> 
+          <span class="fa-stack fa-4x">
+                                  <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                  <i class="fa fa-rocket fa-stack-1x "></i>
+            </span> 
+       <div class="panel panel-default"> <div class="panel-heading"> <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseNine">Company Winding up</a> </h4> </div> <div id="collapseNine" class="panel-collapse collapse"> <div class="panel-body"> <p><ul>
+                                <li>Voluntary liquidation</li>
+                                <li>winding up of companies by the Court &amp; FTE mode</li>
+                            </ul></p></div> </div></div></div>
+    
+                </div>
+
+    </div>
+
+      <div class="item">
+        <div class="panel-group" id="accordion" style="margin:0"> 
+        <div class="col-md-4"> 
+          <span class="fa-stack fa-4x">
+                                  <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                  <i class="fa fa-compass fa-stack-1x "></i>
+            </span> 
+ <div class="panel panel-default"> <div class="panel-heading"> <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseTen">Corporate Restructuring</a> </h4> </div> <div id="collapseTen" class="panel-collapse collapse"> <div class="panel-body"> <p><ul>
+                                <li>Assistance in Mergers, acquisitions and demergers.</li>
+                                <li>Financial restructuring assistance</li>
+                                <li>Assistance in business / company takeover matters – Private Companies and Public Companies</li>
+                            </ul></p></div> </div> </div></div>
+      <div class="col-md-4"> 
+          <span class="fa-stack fa-4x">
+                                  <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                  <i class="fa fa-fire fa-stack-1x "></i>
+            </span> 
+          <div class="panel panel-default"> <div class="panel-heading"> <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseEleven">Project Financing</a> </h4> </div> <div id="collapseEleven" class="panel-collapse collapse"> <div class="panel-body"> <p><ul>
+                               <li>Private Funding / VC Funding - Advisory and Assistance.</li>
+                                <li>Funding of projects from Banks, Financial Institutions from India & Abroad.</li>
+                                <li>Debt &amp; Equity Financing.</li>
+                            </ul></p></div> </div></div></div>
+      <div class="col-md-4"> 
+          <span class="fa-stack fa-4x">
+                                  <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                  <i class="fa fa-bullhorn fa-stack-1x "></i>
+            </span> 
+       <div class="panel panel-default"> <div class="panel-heading"> <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve">Registration Services</a> </h4> </div> <div id="collapseTwelve" class="panel-collapse collapse"> <div class="panel-body"> <p><ul>
+                                <li>VAT Registration/ Service tax Registration/ ESI & PF Registration</li>
+                                <li>Financial restructuring assistance</li>
+                            </ul></p></div> </div></div></div>
+    
+                </div>
+
+    </div>
+
+</div>
+
+
+</div>
+             <!-- Controls -->
+                        <div class="btns" style="margin:20px">
+                            <a class="btn btn-primary btn-sm" href="#myCarousel" role="button" data-slide="prev">
+                                <span class="fa fa-angle-left" aria-hidden="true"></span>
+                                <span class="sr-only">Previous</span>
+                            </a>
+                            <a class="btn btn-primary btn-sm" href="#myCarousel" role="button" data-slide="next">
+                                <span class="fa fa-angle-right" aria-hidden="true"></span>
+                                <span class="sr-only">Next</span>
+                            </a>
+                        </div>
+
+    </div>
+  </div>
+</section>
+
+
+
+<!-- Team Section -->
+<section id="team"  class="bg-light-gray" style="height:800px">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Our Team</h2>
+        <div class="line"></div>
+      </div>
+    </div>
+
+            <div class="row">
+                <div class="col-sm-10 col-sm-offset-1">
+
+                    <div id="carousel-testimonial" class="carousel slide text-center" data-ride="carousel" >
+                                   <!-- Carousel indicators --> 
+            <div class="col-lg-12">
+            <ol class="carousel-indicators"> 
+                <li data-target="#carousel-testimonial" data-slide-to="0" class="active"></li> 
+                <li data-target="#carousel-testimonial" data-slide-to="1"></li> 
+                <li data-target="#carousel-testimonial" data-slide-to="2"></li> 
+                <li data-target="#carousel-testimonial" data-slide-to="3"></li>
+                <li data-target="#carousel-testimonial" data-slide-to="4"></li>
+                <li data-target="#carousel-testimonial" data-slide-to="5"></li>
+
+            </ol>
+                </div>
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner" role="listbox">
+                            <div class="item active">
+                                <p><img class="img-circle img-thumbnail" src="img/team.jpg" alt="" style="width:225px;height:225px;"></p>
+                                <h4> Swaran Jain<br>
+                            <small>FCS, B.Com (Hons.), LL.B</small>
+                        </h4>
+                                <p>A Fellow Member of the Institute of Company Secretaries of India. He started his career in 1989 and has worked in various capacities with reputed Industrial Houses. During his 26 years of experience, he has handled various kinds of issues of securities viz. public issue, right issue and bonus issue; dealt with SEBI, Stock Exchange(s), ROC, RBI etc.</p>
+                            </div>
+                            <div class="item">
+                                <p><img class="img-circle img-thumbnail" src="img/team.jpg" alt="" style="width:225px;height:225px;"></p>
+                                <h4> Surinnder K Jolly <br>
+                            <small>FCS, M.Com, LLB, CAIIB</small> 
+                        </h4>
+                                <p>A Fellow Member of the Institute of Company Secretaries of India. He started his career in the banking industry in 1982 and then moved on to the corporate sector in 1989 and subsequently worked with various industrial houses till 1996 and has been advising corporate clients on matters of Project financing, Equity structuring, Loans syndication, Project implementation, Takeovers, Mergers and Acquisitions, Corporate Restructuring, Revivals, MIS system development and Management consultancy services to the Promoters.</p>
+                            </div>
+                            
+                            <div class="item">
+                                <p><img class="img-circle img-thumbnail" src="img/team.jpg" alt="" style="width:225px;height:225px;"></p>
+                                <h4> Ehraz Zafar<br>
+                            <small>LLB, LLM</small>
+                        </h4>
+                                <p style="text-align:left"><strong>Profession:-</strong> Advocate since 2001 as Litigation Lawyer in area of Criminal Law, Civil Law, Indirect Taxation (Custom & Excise), Power, Petroleum & Natural Gas Cases, Arbitration cases etc.</p>
+                        <p style="text-align:left;"><strong>Govt. Empanelment:-</strong>
+                            <ul style="text-align:left;">
+                                <li>Senior empanelled Advocate with Petroleum & Natural Gas  Regulatory Board.</li>
+                                <li>Senior empanelled Criminal Lawyer with Legal Services Authority.</li>
+                                <li>EPIL (PSU)</li>
+                            </ul></p>
+                    <p>He is also regular Visiting Faculty with National Academy of Custom, Excise & Narcotics, New Delhi.</p>
+                            </div>
+                        
+                                                    <div class="item">
+                                <p><img class="img-circle img-thumbnail" src="img/team.jpg" alt="" style="width:225px;height:225px;"></p>
+                                <h4> Vishal Verma </h4> 
+                        </h4>
+                                <p>An Associate Member of the Institute of Company Secretaries of India. He started his career in 2010 and has worked in various capacities with reputed Industrial Houses. During his 6 years of experience, he has handled Secretarial, legal, Compliance Internal, Statutory, Tax & Secretarial Audit of many other firms and Listed and Unlisted companies. </p>
+                            </div>
+                            
+                            <div class="item">
+                                <p><img class="img-circle img-thumbnail" src="img/team.jpg" alt="" style="width:225px;height:225px;"></p>
+                                <h4> Pooja Verma 
+                        </h4>
+                                <p>An Associate Member of the Institute of Company Secretaries of India with 3.5 year  work experience in Secretarial, legal, Compliance and also worked as an "Analyst" in a Merchant Banking Company as a Team member in Project Financing assignments for drafting of IM, Loan Documents including Financing and Security Documents. She also participated in Corporate Advisory services in respect of cases attracting SEBI (SAST) Regulations, 2011 and SEBI (Prohibition of Insider Trading) Regulations 2015.</p>
+                            </div>
+                            
+                            <div class="item">
+                                <p><img class="img-circle img-thumbnail" src="img/team.jpg" alt="" style="width:225px;height:225px;"></p>
+                                <h4> Anamika Rastogi 
+                        </h4>
+                                <p>An Associate Member of the Institute of Company Secretaries of India & a graduate in Bachelors of Management from IMS, Garhwal University, Dehradun. She has gained dynamic exposure in Company Secretarial audits, Due Diligence Audits & Compliance services. She is involved in Compliance Management Services with regard to Company Law.</p>
+                            </div>
+                            
+
+                        </div>
+
+                <!-- Carousel nav --> 
+                <div>
+                <a class="carousel-control left" href="#carousel-testimonial" data-slide="prev" style="background-image:none; color:#000; font-size:50px">&lsaquo;</a> 
+                <a class="carousel-control right" href="#carousel-testimonial" data-slide="next" style="background-image:none; color:#000; font-size:50px">&rsaquo;</a>
+                </div>
+                           </div>
+                </div>
+            </div>
+
+
+  </div>
+</section>
+
+<!-- Team Section -->
+<section id="contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Contact</h2>
+        <div class="line"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4">
+        <h5><i class="fa fa-map-marker"></i> Address</h5>
+                <p>
+                    <ul style="text-align:left">
+                        <li>52/31 , Ramjas Road, Karol Bagh, New Delhi 110005</li>
+                        <li>D-38,Acharya Niketan,2nd Floor,Office No 4, Mayur Vihar, Phase-1, New Delhi- 110091</li>
+                        <li>201,Composite House,170-171,Prajapat Nagar,OppB-4,Gulmohar Park,New Delhi-110049.</li>
+                    </ul>
+                </p>
+      </div>
+      <div class="col-md-4">
+        <h5><i class="fa fa-envelope-o"></i> Email</h5>
+          <p>
+        
+                  <a href="mailto:swaran234@yahoo.co.in">swaran234@yahoo.co.in</a><br>
+              <a href="mailto:swaran234@hotmail.com">swaran234@hotmail.com</a><br>
+              <a href="mailto:fcs.swaranjain@gmail.com">fcs.swaranjain@gmail.com</a>
+                    </p>
+      </div>
+      <div class="col-md-4">
+        <h5><i class="fa fa-phone"></i> Phone</h5>
+        <p>
+        
+                       <abbr title="Phone-Office">P(O)</abbr>: (011) 22751860<br>
+                  
+                        <abbr title="Mobile">M</abbr>:  9811293795
+                   </p></div>
+    </div>
+<hr>
+    <div class="row">
+      <div class="col-lg-12">
+        <form name="sentMessage" id="contactForm" novalidate>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Your Name *" id="name" required data-validation-required-message="Please enter your name.">
+                <p class="help-block text-danger"></p>
+              </div>
+              <div class="form-group">
+                <input type="email" class="form-control" placeholder="Your Email *" id="email" required data-validation-required-message="Please enter your email address.">
+                <p class="help-block text-danger"></p>
+              </div>
+              <div class="form-group">
+                <input type="tel" class="form-control" placeholder="Your Phone *" id="phone" required data-validation-required-message="Please enter your phone number.">
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-group">
+                <textarea class="form-control" placeholder="Your Message *" id="message" required data-validation-required-message="Please enter a message."></textarea>
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="clearfix"></div>
+            <div class="col-lg-12 text-center">
+              <div id="success"></div>
+              <button type="submit" class="btn btn-xl2">Send Message</button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8"> <span class="copyright">Copyright &copy; Swaran Jain &amp; Associates</span> </div>
+      <div class="col-md-4">
+        <ul class="list-inline social-buttons">
+          <li><a href="#"><i class="fa fa-twitter"></i></a> </li>
+          <li><a href="#"><i class="fa fa-facebook"></i></a> </li>
+          <li><a href="#"><i class="fa fa-linkedin"></i></a> </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- jQuery --> 
+<script src="js/jquery.js"></script> 
+
+<!-- Bootstrap Core JavaScript --> 
+<script src="js/bootstrap.min.js"></script> 
+
+<!-- Plugin JavaScript --> 
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script> 
+<script src="js/classie.js"></script> 
+<script src="js/cbpAnimatedHeader.js"></script> 
+
+<!-- Contact Form JavaScript --> 
+<script src="js/jqBootstrapValidation.js"></script> 
+<script src="js/contact_me.js"></script> 
+
+<!-- Custom Theme JavaScript --> 
+<script src="js/five.js"></script>
+</body>
+</html>
